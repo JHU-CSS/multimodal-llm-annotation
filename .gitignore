@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets / env
+.env
+.envrc
+
+# Local outputs (produced by annotators / eval)
+logs/
+annotations/
+batches/
+data/
+comic_grids/
+comic_text_images/
+sampled_videos.csv
+
+# Editor
+.vscode/
+.idea/

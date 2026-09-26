@@ -1,0 +1,8 @@
+openai>=1.0.0
+pandas
+numpy
+scipy
+scikit-learn
+opencv-python
+Pillow
+matplotlib
