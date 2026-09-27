@@ -1,6 +1,11 @@
-# Multimodal annotation
+# Paying for Too Many Tokens? Valid and Cost-Efficient Multimodal LLM Annotation with Simple Heuristics
 
-Code for annotating TikTok and MELD videos with LLMs using frame grids, and PPI corrections.
+This repository contains the code and data for reproducing the results from:
+
+Paying for Too Many Tokens? Valid and Cost-Efficient Multimodal LLM Annotation with Simple Heuristics
+Zhixi Zhu and Kristina Gligorić
+AACL-IJCNLP 2026
+
 
 ## Layout
 
